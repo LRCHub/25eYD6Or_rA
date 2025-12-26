@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "魔法の絨毯",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2025-12-26T07:22:35.363232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法の絨毯",
+      "artist": "Takaya Kawasaki",
+      "has_synced": true,
+      "path": "select/01_魔法の絨毯_Takaya_Kawasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法の絨毯",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/02_魔法の絨毯_川崎鷹也.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_02_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_03_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_04_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_05_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_06_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_07_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_08_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_09_魔法の絨毯_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "魔法の絨毯 (Live)",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_10_魔法の絨毯_(Live)_川崎_鷹也.txt"
+    }
+  ]
+}
